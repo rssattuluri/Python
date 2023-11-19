@@ -1,4 +1,4 @@
- Exception
+# Exception
 # abnormal event during the execution program, But ut can handled
 
 # Error - specific code ->  1 gb -> 1.2 gb ? StackOverFlow
@@ -6,7 +6,7 @@
 # MemoryError - Error -> Restart, retry
 
 # Java -> Python
-
+"""
 print("Insert the Card")
 
 try:
@@ -111,6 +111,7 @@ person2 = Person2("Pramod", 23, "M")
 person2.print_details()
 
 #Python Loops, List, Dict, Set [x]
+"""
 
 # API Automation
 # What is API? (Postman)
@@ -132,4 +133,3 @@ person2.print_details()
 # 3. Reporting
 # 4. File & Misc Concepts are same as in APIs
 # Automation - Project #1
-
